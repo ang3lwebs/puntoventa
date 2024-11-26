@@ -1,6 +1,6 @@
 <?php
 
-	const APP_URL="http://localhost/programs/puntoVenta/";
+	const APP_URL="https://ang3lwebs.github.io/puntoventa/";
 	const APP_NAME="VENTAS";
 	const APP_SESSION_NAME="POS";
 
